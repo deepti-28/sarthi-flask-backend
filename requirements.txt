@@ -4,3 +4,4 @@ Flask-JWT-Extended
 Flask-SQLAlchemy
 Werkzeug
 gunicorn
+eventlet
